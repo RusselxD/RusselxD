@@ -3,8 +3,10 @@
 
 Intern Software Developer contributing to production systems at  
 **Upturn Business Solutions**, focused on building secure and scalable applications.
+
 🏢 **Organization**
 👉 https://github.com/upturn-business-solutions
+
 ---
 ### 🎯 Interests & Goals:
 * Building clean, scalable, and maintainable systems
