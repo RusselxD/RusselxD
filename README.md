@@ -1,5 +1,3 @@
-# Russel Cabigquez
-
 **Building Thoughtful & Scalable Software**
 
 📍 Metro Manila, Philippines
