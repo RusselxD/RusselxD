@@ -3,7 +3,6 @@
 📍 Metro Manila, Philippines
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-russeldev.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://russeldev.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-RusselxD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RusselxD)
 [![Email](https://img.shields.io/badge/Email-russelcabigquez8-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:russelcabigquez8@gmail.com)
 
 ---
